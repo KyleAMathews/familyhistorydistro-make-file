@@ -54,3 +54,10 @@ projects[familyhistorydistro][download][url] = http://github.com/KyleAMathews/fa
 projects[familyhistorydistro-features][type] = module
 projects[familyhistorydistro-features][download][type] = git
 projects[familyhistorydistro-features][download][url] = http://github.com/KyleAMathews/Family-History-Distro-features.git
+
+; Themes
+projects[html5_base][version] = "1.x-dev"
+
+projects[elijah][type] = "theme"
+projects[elijah][download][type] = "git"
+projects[elijah][download][url] = "http://git.drupal.org/project/elijah.git"
