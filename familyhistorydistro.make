@@ -13,7 +13,7 @@ projects[context][subdir] = contrib
 projects[context][version] = 3.0-beta1
 	
 projects[ctools][subdir] = contrib
-projects[ctools][version] = 1.0-alpha2
+projects[ctools][version] = 1.0-alpha4
 
 projects[date][subdir] = contrib
 projects[date][version] = 1.0-alpha2
@@ -43,7 +43,7 @@ projects[token][subdir] = contrib
 projects[token][version] = 1.0-beta1
 
 projects[views][subdir] = contrib
-projects[views][version] = 3.x-dev
+projects[views][version] = 3.0-beta2
 
 ; Install Profile
 projects[familyhistorydistro][type] = profile
