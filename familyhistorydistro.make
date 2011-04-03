@@ -34,7 +34,7 @@ projects[google_fonts][subdir] = contrib
 projects[google_fonts][version] = 1.6
 
 projects[features][subdir] = contrib
-projects[features][version] = 1.0-beta1
+projects[features][version] = 1.x-dev
 
 projects[pathauto][subdir] = contrib
 projects[pathauto][version] = 1.0-beta1
