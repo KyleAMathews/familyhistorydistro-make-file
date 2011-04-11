@@ -24,6 +24,9 @@ projects[devel][version] = 1.0
 projects[diff][subdir] = contrib
 projects[diff][version] = 2.0-beta2
 
+projects[features][subdir] = contrib
+projects[features][version] = 1.x-dev
+
 projects[geolocation][subdir] = contrib
 projects[geolocation][version] = 1.x-dev
 
@@ -33,8 +36,8 @@ projects[google_analytics][version] = 1.1
 projects[google_fonts][subdir] = contrib
 projects[google_fonts][version] = 1.6
 
-projects[features][subdir] = contrib
-projects[features][version] = 1.x-dev
+projects[jquery_update][subdir] = contrib
+projects[jquery_update][version] = 2.2
 
 projects[pathauto][subdir] = contrib
 projects[pathauto][version] = 1.0-beta1
