@@ -9,6 +9,9 @@ projects[drupal][version] = "7.0"
 projects[admin_menu][subdir] = contrib
 projects[admin_menu][version] = 3.x-dev
 
+projects[boxes][subdir] = contrib
+projects[boxes][version] = 1.0-beta2
+
 projects[context][subdir] = contrib
 projects[context][version] = 3.0-beta1
 	
