@@ -45,6 +45,9 @@ projects[google_fonts][version] = 1.6
 projects[jquery_update][subdir] = contrib
 projects[jquery_update][version] = 2.2
 
+projects[markdown][subdir] = contrib
+projects[markdown][version] = 1.0
+
 projects[pathauto][subdir] = contrib
 projects[pathauto][version] = 1.0-rc2
 
