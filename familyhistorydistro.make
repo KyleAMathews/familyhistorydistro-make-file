@@ -33,6 +33,9 @@ projects[entity][version] = 1.0-beta8
 projects[features][subdir] = contrib
 projects[features][version] = 1.0-beta4
 
+projects[filefield_sources][subdir] = contrib
+projects[filefield_sources][version] = 1.4
+
 projects[geolocation][subdir] = contrib
 projects[geolocation][version] = 1.x-dev
 
