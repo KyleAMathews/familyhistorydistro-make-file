@@ -39,6 +39,9 @@ projects[filefield_sources][version] = 1.4
 projects[geolocation][subdir] = contrib
 projects[geolocation][version] = 1.x-dev
 
+projects[globalredirect][subdir] = contrib
+projects[globalredirect][version] = 1.3
+
 projects[google_analytics][subdir] = contrib
 projects[google_analytics][version] = 1.1
 
